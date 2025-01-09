@@ -61,7 +61,7 @@ A dynamic and interactive application that fetches and displays the latest news 
    ```
 
 5. **Access the Application**:
-   - Open `http://localhost:3000` in your browser.
+   - Open `http://localhost:5173` in your browser.
 
 ## API Endpoints
 
