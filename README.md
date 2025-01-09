@@ -28,10 +28,10 @@ A dynamic and interactive application that fetches and displays the latest news 
 
 | Feature               | Screenshot                        |
 |-----------------------|-----------------------------------|
-| News Search Interface | ![News Search](https://github.com/imlavaraju/ixigo/blob/main/frontend/src/assets/Screenshot%20(21).png) |Fa
+| News Search Interface | ![News Search](https://github.com/imlavaraju/ixigo/blob/main/frontend/src/assets/Screenshot%20(21).png) |
 | Login Page            | ![Login Page](https://github.com/imlavaraju/ixigo/blob/main/frontend/src/assets/Screenshot%20(22).png) 
 | SignUp Page        | ![Sign Up](https://github.com/imlavaraju/ixigo/blob/main/frontend/src/assets/Screenshot%20(23).png) |
-| Favourites            | [Favourites](https://github.com/imlavaraju/ixigo/blob/main/frontend/src/assets/Screenshot%20(2).png)
+| Favourites            | ![Favourites](https://github.com/imlavaraju/ixigo/blob/main/frontend/src/assets/Screenshot%20(24).png) |
 
 ## How to Run Locally
 
